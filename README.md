@@ -1,4 +1,4 @@
-# Perform an analysis on COVID-19 dataset using SQL and Tableau 
+# Analyze Dataset using SQL and Tableau 
 
 
 
