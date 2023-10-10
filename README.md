@@ -9,6 +9,16 @@ and extract information in addition to building a dashboard using Tableau to ill
 
 --------------------------------------------------------------------------
 
+
+### Prerequisites
+
+This is a SQL project written with PostgreSQL and this is basically what we will need:
+- PostgreSQL
+- Tableau Desktop
+
+--------------------------------------------------------------------------
+
+
 ### Files
 
 - [CovidDeaths.csv](https://github.com/ahmedmonged/Data-analysis-using-SQL-and-Tableau/blob/main/Data/CovidDeaths.csv) : Covid-19 data related to the number of infections and deaths.
