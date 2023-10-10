@@ -1,5 +1,6 @@
 # Analyze Dataset using SQL and Tableau 
 
+![COVID19_share](https://github.com/ahmedmonged/Data-analysis-using-SQL-and-Tableau/assets/69379730/8b1cfa73-9d69-48a0-8b33-ae3d0d4ba992)
 
 
 ### Background Information
